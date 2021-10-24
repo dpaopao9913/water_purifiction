@@ -1,0 +1,20 @@
+{
+  "name": "water_purifiction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-utils": "^1.2.21",
+    "express": "^4.17.1",
+    "i2c-bus": "^5.2.2",
+    "onoff": "^6.0.3",
+    "rpi-gpio": "^2.1.7",
+    "sleep": "^6.3.0",
+    "wechat": "^2.1.0"
+  }
+}
